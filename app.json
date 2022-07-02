@@ -1,7 +1,7 @@
 {
-    "name": "IF-XTW",
-    "description": "IF-XTW",
-    "keywords": ["vmess vless trojan shadowsocks socks"],
+    "name": "v2",
+    "description": "v2",
+    "keywords": ["v2"],
     "env": {
         "AA": {
             "description": "初阶用户只需修改以下AUUID点击页面最后的Deploy app按钮即可开始部署",
@@ -17,7 +17,7 @@
         },
         "ParameterSSENCYPT": {
             "description": "SS加密方式，查看支持协议: https://www.v2fly.org/config/protocols/shadowsocks.html",
-            "value": "chacha20-ietf-poly1305"
+            "value": "chacha20-poly1305"
         }
     },
     "repository": "",
